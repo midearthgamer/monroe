@@ -71,6 +71,10 @@ font-size: 28px;
 flex-wrap:wrap;
 padding-top:50px;
 color:rgb(231,232,233);
+background-color:rgb(16,17,18);
+text-align: center;
+border-radius: 20px;
+border: 1px rgb(16,17,18);
 }
 
 
