@@ -14,11 +14,6 @@ a{
 p{
   color:rgb(231,232,233);
 }
-h2{
-  color:rgb(231,232,233);
-  bottom:10070px;
-
-}
 
 .header a:hover {
   background-color: rgba(255, 255, 255, 0.103);
@@ -60,24 +55,31 @@ a:link{
 a:visited{
   color:rgb(231,232,233);
 }
-
 .Body{
-margin-right: 34%;
-position:absolute;
-margin-left: -250px; /* very important for the image to be centered */
-left:50%;
-top:100px;
-font-size: 28px;
-flex-wrap:wrap;
-padding-top:50px;
-color:rgb(231,232,233);
-background-color:rgb(16,17,18);
-text-align: center;
-border-radius: 20px;
-border: 1px rgb(16,17,18);
-}
+  margin-right: 34%;
+  position:absolute;
+  margin-left: -249px; /* very important for the image to be centered */
+  left:51%;
+  top:100px;
+  font-size: 28px;
+  flex-wrap:wrap;
+  padding-top:50px;
+  color:rgb(231,232,233);
+  border: 2px solid rgb(16,17,18);
+  border-radius: 6px;
+  border-color: rgb(16,17,18);
+  text-align: center;
+  background-color: rgb(16,17,18);
+  }
 
+  .Image1{
+    background-color: rgb(16,17,18);
+    color:rgb(16,17,18);
+  }
 
+  h2{
+    background-color: rgb(16,17,18);
+  }
 
 
 .Discord{
@@ -89,3 +91,4 @@ border: 1px rgb(16,17,18);
   font-size: 44px;
   color:rgb(231,232,244)
   }
+
